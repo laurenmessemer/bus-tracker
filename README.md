@@ -1,7 +1,7 @@
 # bus-tracker
-<p align="center">
-  <img src="laurenmessemer/bus-tracker/bus.png" width="350" title="bus">
-</p>
+
+![bus](https://user-images.githubusercontent.com/70284444/170415032-154cc57a-99ca-4fb9-8c56-bae566ec14ca.PNG)
+
 
 ## Description
 This Bus Tracker Application provides its users real-time feedback of the stops between Massachusetts Institute of Technology and Harvard, every 15 seconds.
